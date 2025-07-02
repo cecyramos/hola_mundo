@@ -29,4 +29,4 @@ print( 'Me encanta comer {} y {}'.format( comida1, comida2 ) ) # con .format()
 print( f'Me encanta comer { comida1 } y { comida2 }' ) # con una cadena f
 
 # 3. (antes de ser corregido)
-print( 'Hola ' + numero + '!' ) # con un + -- este debería arrojar un error!gt
+print( 'Hola ' + numero + '!' ) # con un + -- este debería arrojar un error!
